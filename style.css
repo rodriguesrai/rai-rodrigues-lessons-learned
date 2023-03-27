@@ -21,15 +21,20 @@ h1 {
     height: 200px;
 }
 
-table td, th{
+table td, th {
     border: 1px solid;
+    margin: 0px;
     width: auto;
     padding: 10px;
     text-align: center;
     font-size: 25px;
-
 }
 
-margin
-padding
-border
+.lado-esquerdo {
+    display: inline-block;
+    width: 300px;
+}
+.lado-direito {
+    display: inline-block;
+    width: 300px;
+}
