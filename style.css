@@ -13,3 +13,15 @@ body {
 #minha_foto {
     height: 200px;
 }
+
+table td, th{
+    border: 1px solid;
+    width: auto;
+    padding: 10px;
+    text-align: center;
+
+}
+
+margin
+padding
+border
