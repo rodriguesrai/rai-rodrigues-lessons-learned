@@ -1,5 +1,9 @@
 body {
     background-color: rgb(253, 251, 251);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+main {
+    line-height: 30px;
 }
 
 #cabecalho {
@@ -8,6 +12,9 @@ body {
     background-color: blue;
     width: 100%;
     height: 150px;
+}
+h1 {
+    color: white;
 }
 
 #minha_foto {
@@ -19,6 +26,7 @@ table td, th{
     width: auto;
     padding: 10px;
     text-align: center;
+    font-size: 25px;
 
 }
 
